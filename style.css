@@ -1,0 +1,5 @@
+body {
+  background-color: radial-gradient(circle at 20% 95%, #056877, #051828 96%);
+  --background_gradient: radial-gradient(circle at 20% 95%, #056877, #051828 96%);
+}
+
